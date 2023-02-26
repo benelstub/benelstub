@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 🔭 I’m currently working on my personal website<br>🌱 I’m currently learning Back-End Engineering on Codecademy plus  some DevOps bits!<br>💬 Ask me about anything
 
 
