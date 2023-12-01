@@ -1,7 +1,3 @@
-# 👋 About Me:
-🔭 I’m currently working on my personal website & some work stuffs<br>🌱 Currently learning Full-Stack Engineering on Codecademy plus some DevOps bits in between 
-<be>
-💬 Ask me about anything
 
 
 ## 🌐 Socials:
