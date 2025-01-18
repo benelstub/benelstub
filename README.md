@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋</h1>
 
 
-<p align="left">My name is Ben and I'm a Technical Engineer and Developer from the UK</p>
+<p align="left">My name is Ben and I'm a Technical & DevOps Consultant and Developer from the UK</p>
 
 ###
 
